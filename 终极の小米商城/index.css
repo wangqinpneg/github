@@ -1,0 +1,251 @@
+
+body{
+    color:#333;
+    background-color:#fff;
+    min-width: 1226px;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+
+#quitzera{
+    position: relative;
+    z-index: 30;
+    height: 40px;
+    font-size:12px;
+    color:#b0b0b0;
+    background-color:#333;
+    
+}
+a{
+    color:#b0b0b0;
+    text-decoration: none;
+}
+#main {
+width:1226px;
+margin-right: auto;
+margin-left:auto;
+}
+#zkkp{  
+    float: left;
+    height:40px;
+    line-height: 40px;
+}
+#qz1{
+    color:#424242;
+    margin:0.1em;   
+}
+#nmsl2{
+    line-height: 40px;
+    float: right;
+}
+#nmsl{
+    float: right;
+    height: 40px;
+    position: relative;
+    width:120px;
+    margin-left:15px;
+    line-height: 40px;
+}
+
+#logoqz{
+    position: relative;
+    width: 1226px;
+    margin:0 auto;
+
+}
+#quit{
+    float: left;
+    width:62px;
+    margin-top: 22px; 
+}
+#quit10086{
+    float: left;
+    width:850px;
+    height: 87px;
+
+}
+#kkp{
+    position: relative;
+    z-index:10px;
+    float:left;
+    width:820px;
+    margin:0px;
+    height:88px;
+    padding:12px 0px 0px 30px;
+    font-size: 16px;
+}
+#kkp10086 a{
+    text-decoration: none;
+    float: left;
+    color:black;
+    font-size:16px;
+    display: inline-block;
+    padding: auto;
+    margin: 25px 10px 10px 10px;
+
+
+}
+#kkp2 a{
+    text-decoration: none;
+    position: relative;
+    float:left;
+    color:black;
+    padding-left:142px;
+    display: inline-block;
+    padding: auto;
+    margin: 25px 10px 10px 10px;
+}
+#qz10086{
+    float: right;
+    margin-top: 25px;
+    width:296px;
+    height: 50px;
+}
+#ssk input{
+    position: relative;
+    width:296px;
+    height:50px;
+}
+
+
+#daoshihang{
+    position: absolute;
+    top:88px;
+    left:0px;
+    z-index:21;
+    width:234px;
+    height:460px;
+    font-size:14px;
+}
+
+#daoshitu10086{
+    
+    height:419px;
+    border:0;
+    background-color:rgba(0,0,0,0.6);
+    margin: 0px;
+    padding: 20px 0;
+    list-style-type: none;
+}
+
+li a    {
+    color:#fff;
+}
+li{
+    width: 234px;
+    height: 42px;
+    padding-left: 30px;
+}
+
+#nmslkkp{
+    position: relative;
+    width: 1226px;
+    height: 460px;
+    padding: 0px;
+
+}
+
+#StarCraft{
+  margin-right:auto;
+  margin-left:auto;
+  position: relative;
+  z-index: 10px;
+  width:1226px;
+  height:196px;
+
+
+}
+
+#StarCraftII{
+  width:234px;
+  float: left;
+  margin-top:14px;
+  min-height: 1px;
+   
+
+
+
+  
+
+}
+
+#main-list10086{
+
+  height:170px;
+  margin:0px;
+  padding:3px;
+  list-style-type: none;
+  font-size:12px;
+  text-align:center;
+  background-color: #5f5750;
+
+}
+
+#content-list10086{
+  position: relative;
+  width:70px;
+  height: 82px;
+  float: left;
+  padding:0 3px;
+  
+}
+
+
+#iconfont1{
+  -webkit-text-stroke-width: 0.2px;
+  font-style: normal;
+  width:70px;
+  height:24px;
+  display: block;
+  height: 24px;
+  margin-bottom: 4px;
+  font-size: 24px;
+  line-height: 24px;
+}
+#content-listsrq{
+  display: block;
+  padding-top: 18px;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+  color: rgba(255,255,255,0.7);
+  transition: color .2s;
+}
+
+#home-main-quitzera{
+  margin-top:14px;
+  margin-bottom:26px;
+  width:978px;
+  float:left;
+  margin-left:14px;
+  min-height: 1px;
+}
+
+#home-promo-list{
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+
+#qz-kkp{
+  display:block;
+  height: 176px;
+  color:#757575;
+  text-decoration: none;
+
+}
+#pic4{
+  width:316px;
+  height: 176px;
+}
+
+#first{
+  padding-left:0px;
+  margin-left: 10px;
+  float: left;
+  width: 316px;
+  height: 176px;
+}
+
